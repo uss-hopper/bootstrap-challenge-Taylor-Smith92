@@ -1,0 +1,17 @@
+.imageParagraph {
+	background-color: #E0DFE0;
+}
+
+.card {
+	background-color: #F5F5F5;
+	border-radius: 7px;
+	margin-top: 1.5rem;
+}
+
+.jumbotron {
+	border-radius: 7px;
+}
+
+.navbar {
+	border-radius: 7px;
+}
